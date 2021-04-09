@@ -87,6 +87,10 @@ ul li:first-child {
   margin-right: auto;
 }
 
+ul a img {
+  margin-right: .25em;
+}
+
 ul a {
   display: flex;
   justify-content: start;
